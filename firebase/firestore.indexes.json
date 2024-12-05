@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "fechas",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "fechaSinMH",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "fecha",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

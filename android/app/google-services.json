@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "319505700000",
+    "project_id": "calend-8snn4n",
+    "storage_bucket": "calend-8snn4n.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319505700000:android:8bffb94b0338545f3be5c5",
+        "android_client_info": {
+          "package_name": "com.mycompany.calend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN9SrZPClirxH5_xrNG7Y0uwbcCqNvCCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
